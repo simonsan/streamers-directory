@@ -4,3 +4,12 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Streamers directory"
+theme = "coal"
+
+[build]
+create-missing = false
+
+[output.html]
+default-theme = "coal"
+git-repository-url = "https://github.com/simonsan/streamers-directory"
+git-repository-icon = "fa-github"
