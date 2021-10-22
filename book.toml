@@ -1,0 +1,6 @@
+[book]
+authors = ["Simon San"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Streamers directory"
